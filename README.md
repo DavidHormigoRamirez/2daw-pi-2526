@@ -9,9 +9,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 ## Profesores 
 
-La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
-
-### Turno de Mañana
+La siguiente lista cuenta con los usuarios de GitHub de los profesores del curso:
 
 * [David Hormigo](https://github.com/DavidHormigoRamirez)
 * [Antonio Jose Sánchez](https://github.com/antoniojosesanchez)
@@ -25,7 +23,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [TBD]()                         |TBD |
 
 ## 📝 Fechas a tener en cuenta
-* Entrega: **TBD**
+* Exposición Preliminar: **29 de mayo**
 * Exposiciones: **8 y 9 de junio** 
 
 ## ⏰ Cuadrante horario de las exposiciones
