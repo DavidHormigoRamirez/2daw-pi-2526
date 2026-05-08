@@ -28,10 +28,12 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores del curso
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-La fecha y hora de exposición del alumnado se comunicará a través de este canal. La exposición tendrá una duración máxima de 15 minutos, de los cuales, los primeros 10 minutos se dedicarán a la exposición por parte de los alumnos y los 5 restantes para preguntas del profesorado. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
+La fecha y hora de exposición del alumnado se comunicará a través de este canal. La exposición tendrá una duración máxima de 15 minutos, de los cuales, los primeros 10 minutos se dedicarán a la exposición por parte de los alumnos y los 5 restantes para preguntas del profesorado. El alumnado deberá llegar con tiempo suficiente a su presentación. 
 
-**2º DAW Mañana**
-#### :calendar: martes 17 de junio de 2025
+#### :calendar: lunes 8 de junio de 2026
+
+:white_check_mark:  08:30h **[TBD]()** - TBD <br/>
+#### :calendar: martes 9 de junio de 2026
 
 :white_check_mark:  08:30h **[TBD]()** - TBD <br/>
 
