@@ -41,10 +41,20 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 
 #### :calendar: lunes 8 de junio de 2026
 
-:white_check_mark:  08:30h **[TBD]()** - TBD <br/>
+:white_check_mark:  08:30h **[Senti2]()** <br/>
+:white_check_mark:  08:45h **[Minerva]()** <br/>
+:white_check_mark:  09:00h **[Infernum]()** <br/>
+:white_check_mark:  08:30h **[GGC]()** <br/>
+
+
 #### :calendar: martes 9 de junio de 2026
 
-:white_check_mark:  08:30h **[TBD]()** - TBD <br/>
+:white_check_mark:  08:30h **[Gabit]()** - TBD <br/>
+:white_check_mark:  08:30h **[GolStyle]()** - TBD <br/>
+:white_check_mark:  08:30h **[Peluqueria Ferández]()** - TBD <br/>
+:white_check_mark:  08:30h **[BitMatch]()** - TBD <br/>
+:white_check_mark:  08:30h **[OutfitGo]()** - TBD <br/>
+
 
 ## :school: Lugar de las exposiciones
 
