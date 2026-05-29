@@ -24,8 +24,8 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores del curso
 | [Senti2]()                         |TBD |
 | [Minerva]()                         |TBD |
 | [Infernum]()                         |TBD |
-| [GGC]()                         |TBD |
-| [Gabit]()                         |TBD |
+| [GGC]()                         | David Bellón<br>Luis Villar<br>Hugo García |
+| [Gabit]()                         | Carmen Castillo<br>Míriam Díaz |
 | [GolStyle]()                         |TBD |
 | [BitMatch]()                         |TBD |
 | [OutfitGo]()                         |TBD |
