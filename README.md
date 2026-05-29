@@ -20,7 +20,16 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores del curso
 
 |Proyecto | Alumno(s)|
 |-----------------------------------------------------------------------------------| ------------------------------|
-| [TBD]()                         |TBD |
+| [Peluquería Fernández]()                         | Daniel Trujillo |
+| [Senti2]()                         |TBD |
+| [Minerva]()                         |TBD |
+| [Infernum]()                         |TBD |
+| [GGC]()                         |TBD |
+| [Gabit]()                         |TBD |
+| [GolStyle]()                         |TBD |
+| [BitMatch]()                         |TBD |
+| [OutfitGo]()                         |TBD |
+
 
 ## 📝 Fechas a tener en cuenta
 * Exposición Preliminar: **29 de mayo**
