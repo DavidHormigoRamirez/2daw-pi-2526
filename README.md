@@ -21,14 +21,14 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores del curso
 |Proyecto | Alumno(s)|
 |-----------------------------------------------------------------------------------| ------------------------------|
 | [Peluquería Fernández]()                         | Daniel Trujillo |
-| [Senti2]()                         |TBD |
-| [Minerva]()                         |TBD |
-| [Infernum]()                         |TBD |
+| [Senti2]()                         | Martín Bernal<br>Paloma Ocaña|
+| [Minerva]()                         | Mateo Mayger<br>Rubén Sánchez|
+| [Infernum]()                         |Cristian Cocargeanu<br>Martín Morente |
 | [GGC]()                         | David Bellón<br>Luis Villar<br>Hugo García |
 | [Gabit]()                         | Carmen Castillo<br>Míriam Díaz |
-| [GolStyle]()                         |TBD |
-| [BitMatch]()                         |TBD |
-| [OutfitGo]()                         |TBD |
+| [GolStyle]()                         |Manuel Palomares<br>Miguel Ángel Postigo<br>David Rivas |
+| [BitMatch]()                         |Dana Espinosa<br>Ignacio López<br>Gonzalo Navajas |
+| [OutfitGo]()                         |Pablo Fernández-Lomana<br>Luis Godino<br>Juan Jiménez |
 
 
 ## 📝 Fechas a tener en cuenta
